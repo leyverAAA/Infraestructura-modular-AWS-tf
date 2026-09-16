@@ -1,0 +1,20 @@
+# Terraform local
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+
+# Archivos de variables con secretos
+*.tfvars
+*.tfvars.json
+
+# Override
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Planes y archivos temporales
+*.tfplan
+*.tfplan.json
