@@ -330,5 +330,6 @@ La variable `environment` (default `dev`) se propaga a todos los módulos y se u
 Si tienes alguna pregunta o feedback, ¡no dudes en escribirme!
 
 - **Correo:** [gonzalezleyver6@gmail.com](mailto:gonzalezleyver6@gmail.com)
-- **LinkedIn:** [Leyver Aaron Gonzalez Mendoza](https://www.linkedin.com/in/leyver-aaron-gonzalez-mendoza-7026a73a8/)#   I n f r a e s t r u c t u r a - m o d u l a r - A W S - t f  
+- **LinkedIn:** [Leyver Aaron Gonzalez Mendoza](https://www.linkedin.com/in/leyver-aaron-gonzalez-mendoza-7026a73a8/)#   I n f r a e s t r u c t u r a - m o d u l a r - A W S - t f 
+ 
  
